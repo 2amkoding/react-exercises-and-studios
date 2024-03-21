@@ -1,7 +1,8 @@
 .choresText {
-   color: black;
+   color:rgb(58, 11, 5);
+   font-family: 'Courier New', Courier, monospace;
 }
 
 .choresHeading {
-   color: black;
+   color: rgb(167, 33, 33);
 }
